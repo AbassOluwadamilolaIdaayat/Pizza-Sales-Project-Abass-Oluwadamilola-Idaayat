@@ -3,7 +3,7 @@ PIZZA SALES ANALYSIS
 
 Checkout and Interact with my Dashboard On: 
 
-Steps Performed:
+STEPS PERFORMED:
 
 -Connected and transformed raw data from Excel files and designed interactive reports and dashboards to complete the task
 
@@ -11,7 +11,7 @@ Steps Performed:
 
 -Created an executive KPI dashboard containing dynamic filtering options, high-level trending metrics, sales performance, order distribution, and trendings Day to day and  month over month.
 
-Recommendations:
+RECOMMENDATIONS:
 -Maximize Peak & Off Peak Sales: Use of happy hour discounts for days with low sales/slow periods and late-night/lunch specials to capture different customer segments
 
 -Optimize Seasonal Performance by introducing special promotions in slow months (e.g December, September ) and use targeted marketing to drive sales
